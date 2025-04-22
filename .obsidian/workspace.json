@@ -1,0 +1,439 @@
+{
+  "main": {
+    "id": "9fb43f8d07f0789b",
+    "type": "split",
+    "children": [
+      {
+        "id": "418acdacae9fa730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd18e4ee66b1f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/02. CSharp-OOP/99. static.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99. static"
+            }
+          },
+          {
+            "id": "3fa950b2d22de87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/01. 알고리즘 개념.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. 알고리즘 개념"
+            }
+          },
+          {
+            "id": "9ee91a510e5df539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/01. 알고리즘 개념.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. 알고리즘 개념"
+            }
+          },
+          {
+            "id": "e55b004e61e24c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/99. 재귀.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99. 재귀"
+            }
+          },
+          {
+            "id": "7d3351bdcae64f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/99. 재귀.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99. 재귀"
+            }
+          },
+          {
+            "id": "fa4ec47020bcbaf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/99. 재귀.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99. 재귀"
+            }
+          },
+          {
+            "id": "8be10ce331815347",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "이미지/Pasted image 20250320124632.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250320124632"
+            }
+          },
+          {
+            "id": "5baa6cc6a0f84761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/04. CSharp-Algorithm/03-1. 탐색 알고리즘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-1. 탐색 알고리즘"
+            }
+          },
+          {
+            "id": "e1c1d49550fac680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/05. MakingSomethings/01. 인벤토리를 만들어보자.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. 인벤토리를 만들어보자"
+            }
+          },
+          {
+            "id": "401572a573d9b071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/(3D) 유니티 뷰포인트 핫키 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(3D) 유니티 뷰포인트 핫키 만들기"
+            }
+          },
+          {
+            "id": "1505568cdf0bdff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/(3D) 프로빌더로 유니티에서 모델링하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(3D) 프로빌더로 유니티에서 모델링하기"
+            }
+          },
+          {
+            "id": "048c65dfdd4cbbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/생성과 파괴를 빈번히 사용하지 말아야 하는 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "생성과 파괴를 빈번히 사용하지 말아야 하는 이유"
+            }
+          },
+          {
+            "id": "1a2d5bc7b1572be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Transform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transform"
+            }
+          },
+          {
+            "id": "68a44138f62e9354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/물리와 충돌 RigidBody.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "물리와 충돌 RigidBody"
+            }
+          },
+          {
+            "id": "daef9bed6ec33308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Transform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transform"
+            }
+          },
+          {
+            "id": "d30fedb76283ef68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z 오늘 공부할거.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "z 오늘 공부할거"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a15140aae7d9f5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ead5326e55996bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50f3c3e98932bb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c885eb03b72a16b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c5ab6fb616ab720",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1afff907f8e7f8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "909f036f887f48c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b84f896742d133",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSharp/09. 객체지향프로그래밍 (OOP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 09. 객체지향프로그래밍 (OOP)"
+            }
+          },
+          {
+            "id": "24e39af851243ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSharp/09. 객체지향프로그래밍 (OOP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 09. 객체지향프로그래밍 (OOP)"
+            }
+          },
+          {
+            "id": "48a1f35a59f09ec1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52c3f02a7d9f9fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "z 오늘 공부할거.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of z 오늘 공부할거"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a50f3c3e98932bb8",
+  "lastOpenFiles": [
+    "TIL-Obsidian",
+    "2025-04-17 우주걷기 작업 순서.md",
+    "TIL 관리 & 마크다운 문법.md",
+    "CSharp/01. Csharp-Basic/수학 (CSharp).md",
+    "CSharp/01. Csharp-Basic/ref vs out.md",
+    "CSharp/01. Csharp-Basic/함수 인자 중 참조로 전달하는 경우 비교 ( ref  vs  out ).md",
+    "z 오늘 공부할거.md",
+    "이미지/Pasted image 20250421153254.png",
+    "이미지/Pasted image 20250421153247.png",
+    "이미지/Pasted image 20250418103256.png",
+    "CSharp/01. Csharp-Basic/- 프로그래밍 언어 시작(CSharp).md",
+    "99. Images",
+    "Unity/유니티에서의 디자인패턴 응용.md",
+    "Unity/Transform.md",
+    "Unity/코루틴과 유니티이벤트.md",
+    "CSharp/02. CSharp-OOP/04. 상속 (Inheritance).md",
+    "Unity/생성과 파괴를 빈번히 사용하지 말아야 하는 이유.md",
+    "Unity/01. 유니티 라이프 사이클.md",
+    "Unity/(3D) 유니티 뷰포인트 핫키 만들기.md",
+    "Unity/물리와 충돌 RigidBody.md",
+    "Unity/Pasted image 20250416123715.png",
+    "CSharp/04. CSharp-Algorithm/02. 정렬 알고리즘.md",
+    "이미지/Pasted image 20250418112017.png",
+    "이미지/Pasted image 20250418110341.png",
+    "이미지/Pasted image 20250418105528.png",
+    "Unity/Pasted image 20250416152448.png",
+    "Unity/Pasted image 20250417104603.png",
+    "Unity/Pasted image 20250416152509.png",
+    "Unity/(3D) 프로빌더로 유니티에서 모델링하기.md",
+    "ViewPointHotKey.unitypackage",
+    "CSharp/05. MakingSomethings/01. 인벤토리를 만들어보자.md",
+    "Unity",
+    "CSharp/02. CSharp-OOP/02. 클래스 (Class).md",
+    "CSharp/02. CSharp-OOP/08. 인터페이스 (Interface).md",
+    "CSharp/05. MakingSomethings",
+    "CSharp/03. CSharp-Data Structure/02. 리스트 (List).md",
+    "CSharp/03. CSharp-Data Structure/04. 스택.md",
+    "CSharp/03. CSharp-Data Structure/05. 큐.md",
+    "CSharp/02. CSharp-OOP/20. 델리게이트(delegate)와 이벤트(Event).md",
+    "CSharp/03. CSharp-Data Structure/06. 해시테이블 (HashTable) & 딕셔너리 (Dictionary).md",
+    "Untitled.canvas",
+    "CSharp/04. CSharp-Algorithm",
+    "CSharp/02. CSharp-OOP",
+    "CSharp/01. Csharp-Basic",
+    "CSharp/03. CSharp-Data Structure",
+    "옵시디언, Git 관리",
+    "이미지",
+    "Untitled 1.canvas",
+    "Untitled 11.canvas",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas"
+  ]
+}
