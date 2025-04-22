@@ -221,12 +221,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z 오늘 공부할거.md",
+                "file": "2025-04-17 작업 순서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z 오늘 공부할거"
+              "title": "2025-04-17 작업 순서"
             }
           }
         ],
@@ -351,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z 오늘 공부할거.md",
+                "file": "2025-04-17 작업 순서.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of z 오늘 공부할거"
+              "title": "Outline of 2025-04-17 작업 순서"
             }
           }
         ],
@@ -377,15 +377,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a50f3c3e98932bb8",
+  "active": "d30fedb76283ef68",
   "lastOpenFiles": [
+    "z 오늘 공부할거.md",
     "TIL-Obsidian",
-    "2025-04-17 우주걷기 작업 순서.md",
+    "2025-04-17 작업 순서.md",
     "TIL 관리 & 마크다운 문법.md",
     "CSharp/01. Csharp-Basic/수학 (CSharp).md",
     "CSharp/01. Csharp-Basic/ref vs out.md",
     "CSharp/01. Csharp-Basic/함수 인자 중 참조로 전달하는 경우 비교 ( ref  vs  out ).md",
-    "z 오늘 공부할거.md",
     "이미지/Pasted image 20250421153254.png",
     "이미지/Pasted image 20250421153247.png",
     "이미지/Pasted image 20250418103256.png",
@@ -425,7 +425,6 @@
     "CSharp/01. Csharp-Basic",
     "CSharp/03. CSharp-Data Structure",
     "옵시디언, Git 관리",
-    "이미지",
     "Untitled 1.canvas",
     "Untitled 11.canvas",
     "Untitled 10.canvas",
