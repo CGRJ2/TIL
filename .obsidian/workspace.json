@@ -221,16 +221,94 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-17 작업 순서.md",
+                "file": "Unity/코루틴과 유니티이벤트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-17 작업 순서"
+              "title": "코루틴과 유니티이벤트"
+            }
+          },
+          {
+            "id": "cf49d47b1a7bdd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/UI 캔버스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI 캔버스"
+            }
+          },
+          {
+            "id": "715693ab4cbfacbc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unity/이미지파일/Pasted image 20250422110307.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250422110307"
+            }
+          },
+          {
+            "id": "af97c654043fe192",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unity/이미지파일/Pasted image 20250422110307.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250422110307"
+            }
+          },
+          {
+            "id": "87c941fbd5db9aea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unity/이미지파일/Pasted image 20250418105528.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250418105528"
+            }
+          },
+          {
+            "id": "0f89cd3b277ed414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/UI 캔버스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI 캔버스"
+            }
+          },
+          {
+            "id": "b1cbf855fe829af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/디버깅과 프로파일링.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "디버깅과 프로파일링"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -351,13 +429,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-04-17 작업 순서.md",
+                "file": "Unity/디버깅과 프로파일링.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-17 작업 순서"
+              "title": "Outline of 디버깅과 프로파일링"
             }
           }
         ],
@@ -377,37 +455,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d30fedb76283ef68",
+  "active": "b1cbf855fe829af7",
   "lastOpenFiles": [
-    "z 오늘 공부할거.md",
-    "TIL-Obsidian",
-    "2025-04-17 작업 순서.md",
+    "Unity/생성과 파괴를 빈번히 사용하지 말아야 하는 이유.md",
+    "Unity/유니티에서의 디자인패턴 응용.md",
+    "Unity/코루틴과 유니티이벤트.md",
+    "Unity/UI 캔버스.md",
+    "Unity/Transform.md",
+    "Unity/씬.md",
+    "Unity/디버깅과 프로파일링.md",
+    "Unity/이미지파일/Pasted image 20250416123715.png",
+    "Unity/(3D) 프로빌더로 유니티에서 모델링하기.md",
+    "Unity/이미지파일",
+    "Unity/이미지파일/Pasted image 20250418103256.png",
+    "Unity/이미지파일/Pasted image 20250418105528.png",
+    "이미지/Pasted image 20250404141336.png",
+    "이미지/Pasted image 20250404122549.png",
+    "이미지/Pasted image 20250402151718.png",
+    "이미지/Pasted image 20250403142034.png",
+    "이미지/Pasted image 20250404113130.png",
+    "Unity/이미지파일/Pasted image 20250418110341.png",
+    "Unity/이미지파일/Pasted image 20250418112017.png",
     "TIL 관리 & 마크다운 문법.md",
+    "z 오늘 공부할거.md",
+    "2025-04-17 작업 순서.md",
+    "TIL-Obsidian",
     "CSharp/01. Csharp-Basic/수학 (CSharp).md",
     "CSharp/01. Csharp-Basic/ref vs out.md",
     "CSharp/01. Csharp-Basic/함수 인자 중 참조로 전달하는 경우 비교 ( ref  vs  out ).md",
-    "이미지/Pasted image 20250421153254.png",
-    "이미지/Pasted image 20250421153247.png",
-    "이미지/Pasted image 20250418103256.png",
     "CSharp/01. Csharp-Basic/- 프로그래밍 언어 시작(CSharp).md",
     "99. Images",
-    "Unity/유니티에서의 디자인패턴 응용.md",
-    "Unity/Transform.md",
-    "Unity/코루틴과 유니티이벤트.md",
     "CSharp/02. CSharp-OOP/04. 상속 (Inheritance).md",
-    "Unity/생성과 파괴를 빈번히 사용하지 말아야 하는 이유.md",
     "Unity/01. 유니티 라이프 사이클.md",
     "Unity/(3D) 유니티 뷰포인트 핫키 만들기.md",
     "Unity/물리와 충돌 RigidBody.md",
-    "Unity/Pasted image 20250416123715.png",
     "CSharp/04. CSharp-Algorithm/02. 정렬 알고리즘.md",
-    "이미지/Pasted image 20250418112017.png",
-    "이미지/Pasted image 20250418110341.png",
-    "이미지/Pasted image 20250418105528.png",
-    "Unity/Pasted image 20250416152448.png",
-    "Unity/Pasted image 20250417104603.png",
-    "Unity/Pasted image 20250416152509.png",
-    "Unity/(3D) 프로빌더로 유니티에서 모델링하기.md",
     "ViewPointHotKey.unitypackage",
     "CSharp/05. MakingSomethings/01. 인벤토리를 만들어보자.md",
     "Unity",
@@ -417,14 +499,11 @@
     "CSharp/03. CSharp-Data Structure/02. 리스트 (List).md",
     "CSharp/03. CSharp-Data Structure/04. 스택.md",
     "CSharp/03. CSharp-Data Structure/05. 큐.md",
-    "CSharp/02. CSharp-OOP/20. 델리게이트(delegate)와 이벤트(Event).md",
-    "CSharp/03. CSharp-Data Structure/06. 해시테이블 (HashTable) & 딕셔너리 (Dictionary).md",
     "Untitled.canvas",
     "CSharp/04. CSharp-Algorithm",
     "CSharp/02. CSharp-OOP",
     "CSharp/01. Csharp-Basic",
     "CSharp/03. CSharp-Data Structure",
-    "옵시디언, Git 관리",
     "Untitled 1.canvas",
     "Untitled 11.canvas",
     "Untitled 10.canvas",
